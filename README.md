@@ -37,3 +37,4 @@ Dividing the work among 5 people is ideal. The frontend requires designing a cle
 [Haelyn Ryoo](https://github.com/haelynr)
 [Jamie Stuart](https://github.com/jamiestuartv)
 [Adam Mekrami](https://github.com/adammekrami)
+[Yazid Alhamed](https://github.com/Dizay-53)
